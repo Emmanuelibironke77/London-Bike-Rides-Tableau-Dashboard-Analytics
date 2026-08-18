@@ -279,7 +279,7 @@ The project demonstrates my ability to work across the complete analytics workfl
 `Python` · `Pandas` · `Excel` · `Kaggle API`
 
 ---
-![london_bike_dash](./images/London_Bike_Database.png)
+![london_bike_dash](london_bike_dash.png)
 ## 👤 Author
 
 **EmmAnalyitics**
